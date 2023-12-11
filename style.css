@@ -9,3 +9,10 @@ body {
 
   background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
 }
+
+#container {
+  margin: auto;
+  width: 360px;
+  height: 712px;
+  border: 2px solid sandybrown;
+}
