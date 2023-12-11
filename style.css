@@ -13,8 +13,11 @@ body {
 #container {
   margin: auto;
   width: 360px;
-  height: 712px;
   border: 2px solid sandybrown;
+}
+
+#profile {
+  text-align: center;
 }
 
 #profile img {
