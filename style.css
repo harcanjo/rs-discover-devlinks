@@ -16,3 +16,7 @@ body {
   height: 712px;
   border: 2px solid sandybrown;
 }
+
+#profile img {
+  width: 112px;
+}
